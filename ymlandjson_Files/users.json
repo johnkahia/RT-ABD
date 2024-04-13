@@ -1,0 +1,14 @@
+{
+    "93": {
+        "name": "Admin",
+        "mode": "Allowed"
+    },
+    "43": {
+        "name": "admin",
+        "mode": "Allowed"
+    },
+    "67": {
+        "name": "security",
+        "mode": "Allowed"
+    }
+}

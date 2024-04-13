@@ -1,0 +1,141 @@
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+ERROR:playsound:
+    Error 263 for command:
+        open alarm3.wav
+    The specified device is not open or is not recognized by MCI.
+ERROR:playsound:
+    Error 263 for command:
+        close alarm3.wav
+    The specified device is not open or is not recognized by MCI.
+WARNING:playsound:Failed to close the file: alarm3.wav
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+ERROR:playsound:
+    Error 259 for command:
+        play alarm3.wav wait
+    The driver cannot recognize the specified command parameter.
+ERROR:playsound:
+    Error 263 for command:
+        close alarm3.wav
+    The specified device is not open or is not recognized by MCI.
+WARNING:playsound:Failed to close the file: alarm3.wav
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+ERROR:playsound:
+    Error 263 for command:
+        open alarm3.wav
+    The specified device is not open or is not recognized by MCI.
+ERROR:playsound:
+    Error 263 for command:
+        close alarm3.wav
+    The specified device is not open or is not recognized by MCI.
+WARNING:playsound:Failed to close the file: alarm3.wav
+INFO:detector:A knife has been detected within the premise
+INFO:detector:A gun has been detected within the premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:A gun has been detected within the premise
+INFO:detector:unknown person within premise
+INFO:detector:A gun has been detected within the premise
+INFO:detector:unknown person within premise
+INFO:detector:A gun has been detected within the premise
+INFO:detector:unknown person within premise
+INFO:detector:A gun has been detected within the premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:detector:unknown person within premise
+INFO:__main__:Started
+INFO:__main__:Started
+INFO:__main__:Finished
+INFO:__main__:Finished
+INFO:__main__:Finished
+INFO:__main__:Started
+INFO:__main__:Finished

@@ -1,0 +1,10 @@
+africastalking
+customtkinter
+Flask
+numpy
+opencv_python
+Pillow
+playsound
+ultralytics
+# gunicorn
+# mediapipe
